@@ -289,13 +289,13 @@ export default {
 }
 .seller h1 {
   text-align: center;
-  color: #f4f6f8;
+  /* color: #f4f6f8; */
   margin-bottom: 0;
   margin-top: 30px;
 }
 .seller p {
   text-align: center;
-  color: #f4f6f8;
+  color: #9d9c9c;
   margin-bottom: 30px;
   margin-top: 0;
 }
