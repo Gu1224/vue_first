@@ -1,0 +1,23 @@
+html,
+body,
+#app {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  min-width: 1040px;
+}
+.el-header {
+  padding: 0 10px 0px 10px;
+  height: 61px !important;
+  border-bottom: 1px solid #e6e6e6;
+}
+.el-header img {
+  padding: 15px 0;
+  width: 88%;
+}
+.el-input.el-input-group.el-input-group--append {
+  padding: 10px 0;
+}
+.el-main {
+  padding: 0;
+}
